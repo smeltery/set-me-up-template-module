@@ -41,7 +41,7 @@ This guide will help you create a new set-me-up module using this template.
 6. **Create a GitHub repository** and push:
 
    ```bash
-   git remote add origin https://github.com/dotbrains/set-me-up-YOUR-MODULE.git
+   git remote add origin https://github.com/smeltery/set-me-up-YOUR-MODULE.git
    git branch -M main
    git push -u origin main
    ```
@@ -50,7 +50,7 @@ This guide will help you create a new set-me-up module using this template.
 
    ```bash
    cd /path/to/set-me-up
-   git submodule add https://github.com/dotbrains/set-me-up-YOUR-MODULE.git modules/your-module-name
+   git submodule add https://github.com/smeltery/set-me-up-YOUR-MODULE.git modules/your-module-name
    git submodule update --init --recursive
    ```
 

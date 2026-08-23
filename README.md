@@ -1,11 +1,11 @@
 # 'module-name' Module
 
-[![Lint](https://github.com/dotbrains/template-module/actions/workflows/lint.yml/badge.svg)](https://github.com/dotbrains/template-module/actions/workflows/lint.yml)
-[![Tests](https://github.com/dotbrains/template-module/actions/workflows/tests.yml/badge.svg)](https://github.com/dotbrains/template-module/actions/workflows/tests.yml)
+[![Lint](https://github.com/smeltery/template-module/actions/workflows/lint.yml/badge.svg)](https://github.com/smeltery/template-module/actions/workflows/lint.yml)
+[![Tests](https://github.com/smeltery/template-module/actions/workflows/tests.yml/badge.svg)](https://github.com/smeltery/template-module/actions/workflows/tests.yml)
 [![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](https://polyformproject.org/licenses/shield/1.0.0)
 
 This repository is designed to be used as a submodule to the
-[`set-me-up` blueprint](https://github.com/dotbrains/set-me-up-blueprint)
+[`set-me-up` blueprint](https://github.com/smeltery/set-me-up-blueprint)
 repository.
 
 ⚠️ **Note**: This repository should not be used as a standalone script
@@ -49,7 +49,7 @@ configuration. The main script `module-name.sh` will:
 ## _Why abstract these modules to an external repository?_
 
 Please see the
-[universal modules documentation](https://github.com/dotbrains/set-me-up-universal-modules#why-abstract-these-modules-to-an-external-repository)
+[universal modules documentation](https://github.com/smeltery/set-me-up-universal-modules#why-abstract-these-modules-to-an-external-repository)
 for more details on this point.
 
 ## License
